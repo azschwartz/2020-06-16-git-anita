@@ -2,5 +2,5 @@
 
 - `git init`: create a git repository in the current directory
 - `git status`: tells you what is going on
-- `git add`: adds a file to the staging area
-- `git commit`: commits the file(s) in the staging area in to the repository
+- `git add <FILENAME>`: adds a file to the staging area
+- `git commit`: opens up your edit, commits the file(s) added in the staging area in to the repository, you need to type a comment at the top of the file and save it.
