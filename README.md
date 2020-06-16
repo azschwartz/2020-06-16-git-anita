@@ -9,3 +9,5 @@
 - `git diff HEAD~<number> or short key <FILENAME>`: display the difference from your current version of <FILENAME> to the version of the <FILENAME> in HEAD~<number>
 - `git --staged <FILE>`: shows difference of <FILE> staged
 - `git checkout HEAD~<number> or short key <FILENAME>: restore the file to version in HEAD~<number>
+- `git remote add <name> <url>`: gives the remote URL and associates it with NAME
+- `git push <where> <what>`: e.g. `git push origin master` takes master branch on your local computer and pushes it to the origin location
