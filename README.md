@@ -11,3 +11,4 @@
 - `git checkout HEAD~<number> or short key <FILENAME>: restore the file to version in HEAD~<number>
 - `git remote add <name> <url>`: gives the remote URL and associates it with NAME
 - `git push <where> <what>`: e.g. `git push origin master` takes master branch on your local computer and pushes it to the origin location
+- `git pull <where> <what>`: e.g. `git pull origin master` takes remote master branch, and brings it to your local computer
